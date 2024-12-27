@@ -1,1 +1,1 @@
-This repository covers a wide range of Image Processing topics which is based mainly on the scikit-image library of python.
+This repository covers a wide range of Image Processing topics which is based mainly on the ski-image library of python.
